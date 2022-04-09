@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=9b13428b-5550-472c-8aa6-08071ab1ca0f
-CADDYIndexPage=https://github.com/iknow2165/Wpage/raw/main/01.zip
+AUUID=e679133f-3dc5-4588-9854-4d36dece6dde
+CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
